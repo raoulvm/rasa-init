@@ -1,4 +1,5 @@
-[
+[   
+    "ORIGINAL",
     {
         "text": "y",
         "intent": {
@@ -49,7 +50,7 @@
             "confidence": 0.9990745186805725
         }
     },
-    "WITH DEBUG PRINT",
+    "INHERITANCE WITH DEBUG PRINT",
     {
         "text": "y",
         "intent": {
