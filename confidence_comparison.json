@@ -1,0 +1,69 @@
+[
+    {
+        "text": "y",
+        "intent": {
+            "id": -4482318624973717547,
+            "name": "affirm",
+            "confidence": 0.9999541640281677
+        }
+    },
+    {
+        "text": "Y",
+        "intent": {
+            "id": -4482318624973717547,
+            "name": "affirm",
+            "confidence": 0.9997771978378296
+        }
+    },
+    "PATCHED INHERITED",
+    {
+        "text": "y",
+        "intent": {
+            "id": 5022958034007270927,
+            "name": "affirm",
+            "confidence": 0.999 8244643211365
+        }
+    },
+    {
+        "text": "Y",
+        "intent": {
+            "id": 5022958034007270927,
+            "name": "affirm",
+            "confidence": 0.999 727189540863
+        }
+    },
+    "PATCHED SOURCE",
+    {
+        "text": "y",
+        "intent": {
+            "id": 4877188874621913844,
+            "name": "affirm",
+            "confidence": 0.9990745186805725
+        }
+    },
+    {
+        "text": "Y",
+        "intent": {
+            "id": 4877188874621913844,
+            "name": "affirm",
+            "confidence": 0.9990745186805725
+        }
+    }
+    "WITH DEBUG PRINT",
+    {
+        "text": "y",
+        "intent": {
+            "id": 4225500045670598151,
+            "name": "affirm",
+            "confidence": 0.9999934434890747
+        }
+    },
+    {
+        "text": "Y",
+        "intent": {
+            "id": 4225500045670598151,
+            "name": "affirm",
+            "confidence": 0.9999823570251465
+        }
+    }
+]
