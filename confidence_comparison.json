@@ -21,7 +21,7 @@
         "intent": {
             "id": 5022958034007270927,
             "name": "affirm",
-            "confidence": 0.999 8244643211365
+            "confidence": 0.9998244643211365
         }
     },
     {
@@ -29,7 +29,7 @@
         "intent": {
             "id": 5022958034007270927,
             "name": "affirm",
-            "confidence": 0.999 727189540863
+            "confidence": 0.999727189540863
         }
     },
     "PATCHED SOURCE",
@@ -48,7 +48,7 @@
             "name": "affirm",
             "confidence": 0.9990745186805725
         }
-    }
+    },
     "WITH DEBUG PRINT",
     {
         "text": "y",
